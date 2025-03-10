@@ -1,0 +1,11 @@
+x-mentions-index/
+├── components/
+│   └── XMentionsIndex.js
+├── pages/
+│   ├── _app.js
+│   └── index.js
+├── styles/
+│   └── globals.css
+├── package.json
+├── postcss.config.js
+└── tailwind.config.js
